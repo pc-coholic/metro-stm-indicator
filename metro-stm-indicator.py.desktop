@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Metro STM Indicator
+Comment=Metro STM Indicator
+Exec=/opt/metro-stm-indicator/metro-stm-indicator.py
+Icon=applications-python
+Path=/opt/metro-stm-indicator
+Terminal=false
+Type=Application
+Categories=Utility;Application;
